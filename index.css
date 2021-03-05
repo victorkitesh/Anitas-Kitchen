@@ -1,0 +1,68 @@
+.menu{
+    background-image: url(menubackground/landing.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+#second{
+    display: flex;
+    
+  
+}
+.coll{
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+.hour{
+    background-color: rgb(185, 182, 182);
+    height: 90px;
+    width: 330px;
+    text-align: center;
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    
+
+
+}
+.time{
+    background-color: #F15A29;
+    height: 90px;
+    width: 330px;
+    text-align: center;
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+
+}
+.break{
+    background-image: url(image/breakfast.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 330px;
+    text-align: center;
+}
+.lunch{
+    background-image: url(image/lunch.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 330px;
+    text-align: center;
+}
+.dinner{
+    background-image: url(image/dinner.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 330px;
+    text-align: center;
+}
+#space{
+display: flex;
+flex-direction: row;
+
+flex-grow: 7;
+
+}
+
