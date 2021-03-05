@@ -67,9 +67,22 @@ flex-grow: 7;
 }
 #food{
     display: flex;
+    padding:10% 15% 15%;
+    
+
+  
 }
 .images{
     display: flex;
     flex-direction: column;
+    box-shadow:5px 5px 5px black;
+    padding: 15px;
+}
+.fast{
+    padding-left: 30px;
+}
+.gallery{
+    border: 1px solid red;
+    text-align: center;
 }
 
