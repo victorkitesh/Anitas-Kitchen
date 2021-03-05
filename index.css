@@ -65,4 +65,11 @@ flex-direction: row;
 flex-grow: 7;
 
 }
+#food{
+    display: flex;
+}
+.images{
+    display: flex;
+    flex-direction: column;
+}
 
