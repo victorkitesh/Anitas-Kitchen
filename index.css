@@ -85,4 +85,189 @@ flex-grow: 7;
     border: 1px solid red;
     text-align: center;
 }
+#drinks{
+    display: flex;
+    flex-direction: row;
+    justify-content: ;
+    
+    padding:1% 15% 15% ;
+
+}
+.drinking{
+    display: flex;
+    flex-direction: row;
+    padding-left: 25px;
+    box-shadow:5px 5px 5px  black;
+   padding: 15px;
+}
+.collum{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    padding-right: 30px;
+}
+#forth{
+    
+    
+    background-image: url(image/foodsBg.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 90px 130px 90px 130px;
+}
+.forth{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+}
+.imagesfour{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 40px;
+   
+}
+
+.down{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: red;
+}
+.padd{
+   
+    background-color:white;
+    
+    text-align: center;
+    
+}
+.background{
+    background-color: darkgray;
+    height: 80px;
+    width: 400px;
+    text-align: center;
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border-left: 1px solid grey;
+    border-bottom: 1px solid grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bgfastfood{
+    background-color:white;
+    height: 80px;
+    width: 400px;
+    text-align: center;
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: red;
+}
+.top{
+    position: relative;
+    top: 60px;
+    font-size: 36px;
+    font-weight: 800;
+    color: red;
+}
+
+#customer{
+    display:  inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 90px 130px 90px 130px;
+    display: flex;
+    text-align: center;
+    
+
+}
+.imgcustomer{
+    display: inline-flex;
+
+}
+.review{
+
+}
+.bracket{
+    color: red;
+    font-size: larger;
+    font-weight: 800;
+}
+.about{
+    border-left: 2px solid black;
+}
+
+.shadow{
+    box-shadow: 3px 3px 3px 3px black;
+    display: inline-flex;
+    padding-bottom: 40px;
+    padding-left: 30px;
+    padding-top: 40px;
+    padding-right:30px ;
+}
+h6{
+    font-size: medium;
+    color: rgb(216, 16, 16);
+}
+h5{
+    color: rgb(204, 20, 20);
+    font-size: larger;
+}
+#tomato{
+    background-image: url(image/subscribe.jpg);
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+.inline{
+    text-align: center;
+     display: flex;
+     justify-content: center;
+}
+.right{
+    background-color:#F15A29 ;
+    height:30px ;
+    width: 140px;
+    position: relative;
+    left: 45px;
+    color: white;
+    text-align: center;
+    font-size: larger;
+
+}
+.left{
+    background-color:rgb(199, 184, 184);
+    height:30px ;
+    width: 240px;
+    position: relative;
+    right:45px ;
+    color: white;
+    text-align: left;
+    font-size: larger;
+}
+.white{
+    color: white;
+    font-size: x-large;
+}
+#last{
+    background-color: #F15A29 ;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.lastone{
+    display: inline-flex;
+    justify-content: space-between;
+    height: 50px;
+}
+.lastone>h6{
+    color: white;
+    position: relative;
+    left: 20px;
+    top: -40px;
+    font-size: x-large;
+}
+
+
 
